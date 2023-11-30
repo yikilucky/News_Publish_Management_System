@@ -1,1 +1,1 @@
-A news publish management system based on React
+A news release management system based on React
